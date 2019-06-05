@@ -22,8 +22,8 @@ namespace Day4_Class_and_Instance
                 }
                 p.amIOld();
                 Console.WriteLine();
-                Console.ReadLine();
             }
+            Console.ReadLine();
         }
     }
 }
