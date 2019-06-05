@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\HackerRank\Solution\Review1\bin\Debug\Review1.exe.config
+C:\Users\Dell\Desktop\HackerRank\Solution\Review1\bin\Debug\Review1.exe
+C:\Users\Dell\Desktop\HackerRank\Solution\Review1\bin\Debug\Review1.pdb
+C:\Users\Dell\Desktop\HackerRank\Solution\Review1\obj\Debug\Review1.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\HackerRank\Solution\Review1\obj\Debug\Review1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\HackerRank\Solution\Review1\obj\Debug\Review1.exe
+C:\Users\Dell\Desktop\HackerRank\Solution\Review1\obj\Debug\Review1.pdb
