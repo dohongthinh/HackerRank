@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\HackerRank\Solution\Day4_Class_and_Instance\bin\Debug\Day4_Class_and_Instance.exe.config
+C:\Users\Dell\Desktop\HackerRank\Solution\Day4_Class_and_Instance\bin\Debug\Day4_Class_and_Instance.exe
+C:\Users\Dell\Desktop\HackerRank\Solution\Day4_Class_and_Instance\bin\Debug\Day4_Class_and_Instance.pdb
+C:\Users\Dell\Desktop\HackerRank\Solution\Day4_Class_and_Instance\obj\Debug\Day4_Class_and_Instance.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\HackerRank\Solution\Day4_Class_and_Instance\obj\Debug\Day4_Class_and_Instance.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\HackerRank\Solution\Day4_Class_and_Instance\obj\Debug\Day4_Class_and_Instance.exe
+C:\Users\Dell\Desktop\HackerRank\Solution\Day4_Class_and_Instance\obj\Debug\Day4_Class_and_Instance.pdb
