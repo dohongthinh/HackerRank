@@ -33,7 +33,7 @@ namespace Day4_Class_and_Instance
             }
             else if (age > 12 && age < 18)
             {
-                Console.WriteLine("You are teenager.");
+                Console.WriteLine("You are a teenager.");
             }
             else
             {
