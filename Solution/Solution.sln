@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6_Review1", "Review1\Day
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7_Arrays", "Day7_Arrays\Day7_Arrays.csproj", "{50595023-8C5B-48DE-B305-218741826563}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day8_Dictionaries_And_Maps", "Day8_Dictionaries_And_Maps\Day8_Dictionaries_And_Maps.csproj", "{6D1307DD-266D-4089-915F-024530AD544D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{50595023-8C5B-48DE-B305-218741826563}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50595023-8C5B-48DE-B305-218741826563}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50595023-8C5B-48DE-B305-218741826563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D1307DD-266D-4089-915F-024530AD544D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D1307DD-266D-4089-915F-024530AD544D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D1307DD-266D-4089-915F-024530AD544D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D1307DD-266D-4089-915F-024530AD544D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
