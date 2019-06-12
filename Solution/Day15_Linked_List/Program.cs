@@ -22,7 +22,19 @@ namespace Day15_Linked_List
         public static Node insert(Node head, int data)
         {
             //Complete this method
-
+            if (head == null)// if there is no first node
+            {
+                return new Node(data); // node become the first node
+            }
+            else if (head.next == null) // 
+            {
+                head.next = new Node(data);
+            }
+            else
+            {
+                insert(head.next, data);//use recursive for the next node
+            }
+            return head;
         }
 
         public static void display(Node head)
