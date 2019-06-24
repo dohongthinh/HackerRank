@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\HackerRank\Solution\Day8_Dictionaries_And_Maps\bin\Debug\Day8_Dictionaries_And_Maps.exe.config
+C:\Users\Dell\Desktop\HackerRank\Solution\Day8_Dictionaries_And_Maps\bin\Debug\Day8_Dictionaries_And_Maps.exe
+C:\Users\Dell\Desktop\HackerRank\Solution\Day8_Dictionaries_And_Maps\bin\Debug\Day8_Dictionaries_And_Maps.pdb
+C:\Users\Dell\Desktop\HackerRank\Solution\Day8_Dictionaries_And_Maps\obj\Debug\Day08_Dictionaries_And_Maps.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\HackerRank\Solution\Day8_Dictionaries_And_Maps\obj\Debug\Day08_Dictionaries_And_Maps.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\HackerRank\Solution\Day8_Dictionaries_And_Maps\obj\Debug\Day8_Dictionaries_And_Maps.exe
+C:\Users\Dell\Desktop\HackerRank\Solution\Day8_Dictionaries_And_Maps\obj\Debug\Day8_Dictionaries_And_Maps.pdb
