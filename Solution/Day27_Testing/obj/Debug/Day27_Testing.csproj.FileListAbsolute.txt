@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\HackerRank\Solution\Day27_Testing\bin\Debug\Day27_Testing.exe.config
+C:\Users\Dell\Desktop\HackerRank\Solution\Day27_Testing\bin\Debug\Day27_Testing.exe
+C:\Users\Dell\Desktop\HackerRank\Solution\Day27_Testing\bin\Debug\Day27_Testing.pdb
+C:\Users\Dell\Desktop\HackerRank\Solution\Day27_Testing\obj\Debug\Day27_Testing.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\HackerRank\Solution\Day27_Testing\obj\Debug\Day27_Testing.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\HackerRank\Solution\Day27_Testing\obj\Debug\Day27_Testing.exe
+C:\Users\Dell\Desktop\HackerRank\Solution\Day27_Testing\obj\Debug\Day27_Testing.pdb

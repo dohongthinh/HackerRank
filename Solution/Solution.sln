@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day26_Nested_Logic", "Day26
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day27_Testing", "Day27_Testing\Day27_Testing.csproj", "{E9CED978-3064-4ABF-80EF-6CB94FAF6F2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day28_RegEx_Pattern_and_Intro_to_Database", "Day28_RegEx_Pattern_and_Intro_to_Database\Day28_RegEx_Pattern_and_Intro_to_Database.csproj", "{6CEA60DA-9151-444E-9C5C-BC276D289DFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{E9CED978-3064-4ABF-80EF-6CB94FAF6F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9CED978-3064-4ABF-80EF-6CB94FAF6F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9CED978-3064-4ABF-80EF-6CB94FAF6F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CEA60DA-9151-444E-9C5C-BC276D289DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CEA60DA-9151-444E-9C5C-BC276D289DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CEA60DA-9151-444E-9C5C-BC276D289DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CEA60DA-9151-444E-9C5C-BC276D289DFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
