@@ -20,7 +20,7 @@ namespace Day29_Bitwise
 
                 int k = Convert.ToInt32(nk[1]);
 
-                if (((k - 1) & k) <= n)
+                if (((k - 1) | k) <= n)
                 {
                     Console.WriteLine(k - 1);
                 }
@@ -29,5 +29,6 @@ namespace Day29_Bitwise
                     Console.WriteLine(k - 2);
                 }
             }
+        }
     }
 }
